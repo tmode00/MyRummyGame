@@ -1,0 +1,18 @@
+Incs:
+http://tmode00.bplaced.net/rome/inc_StackUpdater.php
+
+Ingame Schnittstellen:
+http://tmode00.bplaced.net/rome/CreateGame.php?werbekommtdreizehn=Player1 | http://tmode00.bplaced.net/rome/CreateGame.php?werbekommtdreizehn=Player2
+http://tmode00.bplaced.net/rome/JoinGame.php?GameID=
+http://tmode00.bplaced.net/rome/OrderCard.php?GameID=T&wersendet=Player1&NewSiblingIndex=2&StapelID=40
+http://tmode00.bplaced.net/rome/UpdateCheck.php?GameID=T
+http://tmode00.bplaced.net/rome/GetLatestID.php
+http://tmode00.bplaced.net/rome/DropCard.php?GameID=1120&wersendet=Player1&DropCardStapelID=97&anlagestring=xxxxxxx95~27x75
+
+Visual Schnittstellen:
+http://tmode00.bplaced.net/rome/TestRestkarten.php?GameID=
+http://tmode00.bplaced.net/rome/TestCreateGame.php?werbekommtdreizehn=Player1
+http://tmode00.bplaced.net/rome/TestJoinGame.php?GameID=
+
+
+
